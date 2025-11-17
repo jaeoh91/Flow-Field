@@ -43,13 +43,11 @@ Edit `sketch.js` to customize:
 
 ## Demo Images
 
-![Demo 1](demos/flowfield-60.png)
+![Demo 1](demos/flowfield-63.png)
 
-![Demo 2](demos/flowfield-63.png)
+![Demo 2](demos/flowfield-35.png)
 
-![Demo 3](demos/flowfield-35.png)
-
-![Demo 4](demos/flowfield-43.png)
+![Demo 3](demos/flowfield-43.png)
 
 
 
